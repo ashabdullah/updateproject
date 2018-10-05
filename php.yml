@@ -1,5 +1,5 @@
 ---
-- hosts: 18.212.159.21
+- hosts: all
   sudo: yes
 
   tasks:
