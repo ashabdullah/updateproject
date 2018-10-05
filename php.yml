@@ -1,5 +1,5 @@
 ---
-- hosts: php
+- hosts: 18.212.159.21
   sudo: yes
 
   tasks:
